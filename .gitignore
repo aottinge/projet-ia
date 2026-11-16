@@ -1,0 +1,10 @@
+# secrets
+.env
+# données brutes Food.com (700 Mo) : à télécharger sur Kaggle
+recipes.csv
+# environnement et fichiers de l'IDE
+.venv/
+__pycache__/
+.idea/
+.DS_Store
+.ipynb_checkpoints/

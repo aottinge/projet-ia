@@ -1,0 +1,9 @@
+numpy
+pandas>=2.2
+matplotlib
+scikit-learn>=1.6
+joblib
+openai>=2.0
+python-dotenv
+pydantic>=2.0
+streamlit>=1.40
